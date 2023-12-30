@@ -11,17 +11,20 @@ from mlProject.utils.common import save_json
 from pathlib import Path
 
 
+
 class ModelEvaluation:
     def __init__(self, config: ModelEvaluationConfig):
         self.config = config
 
     
+
     def eval_metrics(self,actual, pred):
         rmse = np.sqrt(mean_squared_error(actual, pred))
         mae = mean_absolute_error(actual, pred)
         r2 = r2_score(actual, pred)
         return rmse, mae, r2
     
+
 
 
     def log_into_mlflow(self):
