@@ -1,4 +1,15 @@
 # Wine-Quality---MLOPS-Data-Science-Project-Implementation-With-Deployment
+![1w](https://github.com/shanukumar007/Wine-Quality---MLOPS-Data-Science-Project-Implementation-With-Deployment/assets/144050399/72d644be-a12d-4e93-864a-209d76da3b33)
+
+![2w](https://github.com/shanukumar007/Wine-Quality---MLOPS-Data-Science-Project-Implementation-With-Deployment/assets/144050399/6865706f-e2e6-4980-b08d-f5d8f0951305)
+
+![3w](https://github.com/shanukumar007/Wine-Quality---MLOPS-Data-Science-Project-Implementation-With-Deployment/assets/144050399/f2652f4f-e0d2-4979-9141-5c8bafd0aa97)
+
+![11](https://github.com/shanukumar007/Wine-Quality---MLOPS-Data-Science-Project-Implementation-With-Deployment/assets/144050399/5e71789a-6a17-4bae-a908-9205991beedc)
+
+![12](https://github.com/shanukumar007/Wine-Quality---MLOPS-Data-Science-Project-Implementation-With-Deployment/assets/144050399/14a7c2f8-ab90-4a67-a330-0df4c9a76557)
+
+![13](https://github.com/shanukumar007/Wine-Quality---MLOPS-Data-Science-Project-Implementation-With-Deployment/assets/144050399/4de24b6d-ac76-4949-9438-895d4ea21754)
 
 
 ## Workflows
